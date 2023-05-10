@@ -1,11 +1,3 @@
-# Django based music streaming website
-> https://galvanic-music.herokuapp.com/
-
-![GitHub stars](https://github.com/JayaDeep11/Music-player_11/stargazers) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/music-player)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/music-player/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://galvanic-music.herokuapp.com/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 #### Home Page
