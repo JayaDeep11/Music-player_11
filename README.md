@@ -67,15 +67,3 @@ $ python manage.py runserver
 #### Step 3
 
 - 🔃 Create a new pull request.
-
-
-
-## Team ✨
-
-| <a href="https://rajaprerak.github.io" target="_blank">**Prerak Raja**</a> | <a href="https://varadbhogayata.github.io" target="_blank">**Varad Bhogayata**</a> | 
-| :---: |:---:|
-| [![Prerak Raja](https://github.com/rajaprerak.png?size=100)](https://rajaprerak.github.io)    | [![Varad Bhogayata](https://github.com/varadbhogayata.png?size=100)](https://varadbhogayata.github.io) ||
-| <a href="https://github.com/rajaprerak" target="_blank">`github.com/rajaprerak`</a> | <a href="https://github.com/varadbhogayata" target="_blank">`github.com/varadbhogayata`</a> 
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
